@@ -143,3 +143,14 @@ React Bits occasionally draws inspiration from publicly available code examples.
 ## 📄 License
 
 [MIT + Commons Clause](https://github.com/davidhdev/react-bits/blob/main/LICENSE.md) — free for personal and commercial use.
+
+
+## This fork: Codex maintenance
+
+This fork keeps `main` aligned with [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits). Personal documentation and Codex workflow notes live on the `codex-custom` branch.
+
+- [Chinese fork maintenance workflow](docs/zh-CN/FORK_WORKFLOW.md)
+- [Chinese Codex usage guide](docs/zh-CN/CODEX_USAGE.md)
+- [Example project boundary](examples/README.md)
+
+Keep product demos separate and add only the React Bits components a project actually uses.
